@@ -3,6 +3,18 @@ Modelado, discretización y filtrado digital de un circuito didáctico con compu
 
 ## Imágenes del Proyecto
 
+### Esquemático del Circuito
+![Esquemático del circuito](./Esquemático%20del%20circuito%20(con%20reguladores%207805,%207809,%20L293D,%20etc.).png)
+
+### Diagrama de Bode
+![Diagrama de Bode](./Diagrama%20de%20Bode%20(Magnitud%20y%20Fase%20vs%20Frecuencia).png)
+
+### Robustez de I_max ante variación de L
+![Robustez de I_max ante variación de L](./Robustez%20de%20I_max%20ante%20variación%20de%20L.png)
+
+### Respuesta al escalón para diferentes valores de L
+![Respuesta al escalón para diferentes valores de L](./Respuesta%20al%20escalón%20para%20diferentes%20valores%20de%20L.png)
+
 ### Simulación en Proteus
 ![Captura de pantalla 2026-06-02 183344](./Captura%20de%20pantalla%202026-06-02%20183344.png)
 
